@@ -35,5 +35,5 @@ def write_song(doc1, doc2):
 
 
 
-#save_lyrics(page_link, file)
+save_lyrics(page_link, file)
 write_song(file, output)
